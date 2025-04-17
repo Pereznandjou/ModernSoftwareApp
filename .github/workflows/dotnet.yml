@@ -21,5 +21,12 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
 
+    - name: Check code formatting
+      run: dotnet format --verify-no-changes
+
     - name: Run Tests
       run: dotnet test --no-build --verbosity normal
+    - name: Read secret
+      run: echo "Secret value is ${{ secrets.MY_SECRET }}"
+    - name: Simulated deploy
+      run: bash ./deploy.sh

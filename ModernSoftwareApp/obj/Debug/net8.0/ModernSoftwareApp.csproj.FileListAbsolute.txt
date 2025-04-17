@@ -12,3 +12,4 @@ C:\Users\leade\source\repos\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net8.0
 C:\Users\leade\source\repos\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net8.0\ModernSoftwareApp.pdb
 C:\Users\leade\source\repos\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net8.0\ModernSoftwareApp.genruntimeconfig.cache
 C:\Users\leade\source\repos\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net8.0\ref\ModernSoftwareApp.dll
+C:\Users\leade\source\repos\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net8.0\ModernSoftwareApp.sourcelink.json

@@ -1,0 +1,5 @@
+# Ignorer les fichiers temporaires de Visual Studio
+.vs/
+bin/
+obj/
+*.user
